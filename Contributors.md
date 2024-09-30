@@ -1,6 +1,7 @@
 # Contributors
 - Hello World! I'm [Ronak Singh ](https://github.com/ronaksingh27). **Cheers to the community of never ending learning!**
 - [Jitendra Kumar ](https://github.com/zsquare12)
+- - Hello World! I'm [Piyush ](https://github.com/Pyasma). **Cheers to the community of never ending learning!**
 - Hello World! I'm [Shankhya Subhra Chatterjee](https://github.com/SSC-SDE). **Cheers to the community of never ending learning!**
 - Hello World! I'm [Mayank Patel](https://github.com/MayANKPaTeL2303) from IIT Bhilai currently pursing my BTech in computer science. Let's connect on [LinkedIn](https://www.linkedin.com/in/mayank-patel-555163253/) **Cheers to the community of never ending learning!**
 - Hello, nice to meet you, I will find my way someday(https://github.com/young-ye).**cheer up!**
@@ -38,6 +39,7 @@
 - [Alyssa Risius](https://github.com/alrisius1) ** First Contribution**
 - [Davi Brasileiro](https://github.com/Redondave) **Expanding on my Github skills!**
 - [Super Kenil](https://github.com/Super-Kenil) **If you are reading this, Remember, I'll always Love You**
+- **[Jaseel T A](https://github.com/Jaseel-Thalikulam/)** Excited to make my first open-source contribution! Looking forward to collaborating and learning together. Let's connect!
 - [Mason] Hello World! I'm [Mason](https://github.com/MasonCodingHere)!
 - Hi, I'm [Anthony](https://github.com/AnthonyErazo) and this is my first contribution. 
 - Hey folks, it’s [Brunades](https://github.com/brunades). Thrilled to be part of the open source community.
@@ -77,6 +79,7 @@
 - [Ganesh M] **My First Contribution**
 - [Aymen A] https://github.com/4xyy **First Contribution**
 - [Teja S]**My First Contribution**
+- [SH]**Hello World My First Contribution**
 - [Diogo Neto](https://github.com/diogonet0) **Hi everybody ! This is my first contribution!! Im very proud of my progress so far.**
 - [Rick] ** Good good study **
 - [Luan] Hello guys, I'm happy to contribute **29/09/2024**
